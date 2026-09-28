@@ -1,0 +1,1 @@
+# maincrafts_task1_all_solutions.py
